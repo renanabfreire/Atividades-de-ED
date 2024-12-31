@@ -1,6 +1,9 @@
-int* insertSort(int* A, int n)
+#include <vector>
+using namespace std;
+
+vector<long long> insertSort(vector<long long> A, int n)
 {
-    int pivo;
+    long long pivo;
     for(int i=1; i<n; i++)
     {
         pivo = A[i];
@@ -15,7 +18,7 @@ int* insertSort(int* A, int n)
     return A;
 }
 
-int* selectionSort(int* A, int n)
+vector<long long> selectionSort(vector<long long> A, int n)
 {
     for(int i=0; i<n-1; i++)
     {

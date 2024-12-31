@@ -1,0 +1,39 @@
+Tempo para cada instância 
+
+instancias-num/num.100000.1.in
+Tempo InsertionSort: 24.354
+Tempo InsertionSort: 34.314
+instancias-num/num.100000.2.in
+Tempo InsertionSort: 24.289
+Tempo InsertionSort: 34.331
+instancias-num/num.100000.3.in
+Tempo InsertionSort: 24.343
+Tempo InsertionSort: 34.306
+instancias-num/num.100000.4.in
+Tempo InsertionSort: 24.36
+Tempo InsertionSort: 34.312
+instancias-num/num.10000.1.in
+Tempo InsertionSort: 0.242
+Tempo InsertionSort: 0.343
+instancias-num/num.10000.2.in
+Tempo InsertionSort: 0.245
+Tempo InsertionSort: 0.343
+instancias-num/num.10000.3.in
+Tempo InsertionSort: 0.242
+Tempo InsertionSort: 0.343
+instancias-num/num.10000.4.in
+Tempo InsertionSort: 0.244
+Tempo InsertionSort: 0.343
+instancias-num/num.1000.1.in
+Tempo InsertionSort: 0.002
+Tempo InsertionSort: 0.003
+instancias-num/num.1000.2.in
+Tempo InsertionSort: 0.002
+Tempo InsertionSort: 0.003
+instancias-num/num.1000.3.in
+Tempo InsertionSort: 0.002
+Tempo InsertionSort: 0.003
+instancias-num/num.1000.4.in
+Tempo InsertionSort: 0.002
+Tempo InsertionSort: 0.003
+-
