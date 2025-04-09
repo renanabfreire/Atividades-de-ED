@@ -1,0 +1,1517 @@
+Número de Vértices: 10
+Matriz de adjacência:
+0 - 270 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0
+270 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0 - 0
+0 - 0 - 0 - 504 - 655 - 908 - 1299 - 0 - 0 - 0
+0 - 0 - 504 - 0 - 151 - 423 - 723 - 0 - 0 - 0
+0 - 0 - 655 - 151 - 0 - 272 - 571 - 1888 - 0 - 0
+0 - 0 - 908 - 391 - 240 - 0 - 241 - 1560 - 0 - 0
+0 - 0 - 1299 - 723 - 571 - 241 - 0 - 1617 - 0 - 0
+0 - 0 - 0 - 0 - 1902 - 1718 - 0 - 0 - 1274 - 1510
+0 - 0 - 0 - 0 - 0 - 0 - 0 - 1274 - 0 - 236
+0 - 0 - 0 - 0 - 0 - 0 - 0 - 1470 - 236 - 0
+
+Lista de Adjacência:
+1
+0
+3 - 4 - 5 - 6
+2 - 4 - 5 - 6
+2 - 3 - 5 - 6 - 7
+2 - 3 - 4 - 6 - 7
+2 - 3 - 4 - 5 - 7
+4 - 5 - 8 - 9
+7 - 9
+7 - 8
+
+========== CAMINHO ENTRE 0 E 1 ==========
+
+	+ BFS:
+Vertice: 0
+Vertice: 1
+
+	+ DFS:
+Vertice: 0
+Vertice: 1
+
+========== CAMINHO ENTRE 0 E 2 ==========
+
+	+ BFS:
+Vertice: 0
+Vertice: 1
+Não há caminho entre os vértices
+
+	+ DFS:
+Vertice: 0
+Vertice: 1
+Não há caminho entre os vértices
+
+========== CAMINHO ENTRE 0 E 3 ==========
+
+	+ BFS:
+Vertice: 0
+Vertice: 1
+Não há caminho entre os vértices
+
+	+ DFS:
+Vertice: 0
+Vertice: 1
+Não há caminho entre os vértices
+
+========== CAMINHO ENTRE 0 E 4 ==========
+
+	+ BFS:
+Vertice: 0
+Vertice: 1
+Não há caminho entre os vértices
+
+	+ DFS:
+Vertice: 0
+Vertice: 1
+Não há caminho entre os vértices
+
+========== CAMINHO ENTRE 0 E 5 ==========
+
+	+ BFS:
+Vertice: 0
+Vertice: 1
+Não há caminho entre os vértices
+
+	+ DFS:
+Vertice: 0
+Vertice: 1
+Não há caminho entre os vértices
+
+========== CAMINHO ENTRE 0 E 6 ==========
+
+	+ BFS:
+Vertice: 0
+Vertice: 1
+Não há caminho entre os vértices
+
+	+ DFS:
+Vertice: 0
+Vertice: 1
+Não há caminho entre os vértices
+
+========== CAMINHO ENTRE 0 E 7 ==========
+
+	+ BFS:
+Vertice: 0
+Vertice: 1
+Não há caminho entre os vértices
+
+	+ DFS:
+Vertice: 0
+Vertice: 1
+Não há caminho entre os vértices
+
+========== CAMINHO ENTRE 0 E 8 ==========
+
+	+ BFS:
+Vertice: 0
+Vertice: 1
+Não há caminho entre os vértices
+
+	+ DFS:
+Vertice: 0
+Vertice: 1
+Não há caminho entre os vértices
+
+========== CAMINHO ENTRE 0 E 9 ==========
+
+	+ BFS:
+Vertice: 0
+Vertice: 1
+Não há caminho entre os vértices
+
+	+ DFS:
+Vertice: 0
+Vertice: 1
+Não há caminho entre os vértices
+
+========== CAMINHO ENTRE 1 E 0 ==========
+
+	+ BFS:
+Vertice: 1
+Vertice: 0
+
+	+ DFS:
+Vertice: 1
+Vertice: 0
+
+========== CAMINHO ENTRE 1 E 2 ==========
+
+	+ BFS:
+Vertice: 1
+Vertice: 0
+Não há caminho entre os vértices
+
+	+ DFS:
+Vertice: 1
+Vertice: 0
+Não há caminho entre os vértices
+
+========== CAMINHO ENTRE 1 E 3 ==========
+
+	+ BFS:
+Vertice: 1
+Vertice: 0
+Não há caminho entre os vértices
+
+	+ DFS:
+Vertice: 1
+Vertice: 0
+Não há caminho entre os vértices
+
+========== CAMINHO ENTRE 1 E 4 ==========
+
+	+ BFS:
+Vertice: 1
+Vertice: 0
+Não há caminho entre os vértices
+
+	+ DFS:
+Vertice: 1
+Vertice: 0
+Não há caminho entre os vértices
+
+========== CAMINHO ENTRE 1 E 5 ==========
+
+	+ BFS:
+Vertice: 1
+Vertice: 0
+Não há caminho entre os vértices
+
+	+ DFS:
+Vertice: 1
+Vertice: 0
+Não há caminho entre os vértices
+
+========== CAMINHO ENTRE 1 E 6 ==========
+
+	+ BFS:
+Vertice: 1
+Vertice: 0
+Não há caminho entre os vértices
+
+	+ DFS:
+Vertice: 1
+Vertice: 0
+Não há caminho entre os vértices
+
+========== CAMINHO ENTRE 1 E 7 ==========
+
+	+ BFS:
+Vertice: 1
+Vertice: 0
+Não há caminho entre os vértices
+
+	+ DFS:
+Vertice: 1
+Vertice: 0
+Não há caminho entre os vértices
+
+========== CAMINHO ENTRE 1 E 8 ==========
+
+	+ BFS:
+Vertice: 1
+Vertice: 0
+Não há caminho entre os vértices
+
+	+ DFS:
+Vertice: 1
+Vertice: 0
+Não há caminho entre os vértices
+
+========== CAMINHO ENTRE 1 E 9 ==========
+
+	+ BFS:
+Vertice: 1
+Vertice: 0
+Não há caminho entre os vértices
+
+	+ DFS:
+Vertice: 1
+Vertice: 0
+Não há caminho entre os vértices
+
+========== CAMINHO ENTRE 2 E 0 ==========
+
+	+ BFS:
+Vertice: 2
+Vertice: 3
+Vertice: 4
+Vertice: 5
+Vertice: 6
+Vertice: 7
+Vertice: 8
+Vertice: 9
+Não há caminho entre os vértices
+
+	+ DFS:
+Vertice: 2
+Vertice: 6
+Vertice: 7
+Vertice: 9
+Vertice: 8
+Vertice: 5
+Vertice: 4
+Vertice: 3
+Não há caminho entre os vértices
+
+========== CAMINHO ENTRE 2 E 1 ==========
+
+	+ BFS:
+Vertice: 2
+Vertice: 3
+Vertice: 4
+Vertice: 5
+Vertice: 6
+Vertice: 7
+Vertice: 8
+Vertice: 9
+Não há caminho entre os vértices
+
+	+ DFS:
+Vertice: 2
+Vertice: 6
+Vertice: 7
+Vertice: 9
+Vertice: 8
+Vertice: 5
+Vertice: 4
+Vertice: 3
+Não há caminho entre os vértices
+
+========== CAMINHO ENTRE 2 E 3 ==========
+
+	+ BFS:
+Vertice: 2
+Vertice: 3
+
+	+ DFS:
+Vertice: 2
+Vertice: 6
+Vertice: 7
+Vertice: 9
+Vertice: 8
+Vertice: 5
+Vertice: 4
+Vertice: 3
+
+========== CAMINHO ENTRE 2 E 4 ==========
+
+	+ BFS:
+Vertice: 2
+Vertice: 3
+Vertice: 4
+
+	+ DFS:
+Vertice: 2
+Vertice: 6
+Vertice: 7
+Vertice: 9
+Vertice: 8
+Vertice: 5
+Vertice: 4
+
+========== CAMINHO ENTRE 2 E 5 ==========
+
+	+ BFS:
+Vertice: 2
+Vertice: 3
+Vertice: 4
+Vertice: 5
+
+	+ DFS:
+Vertice: 2
+Vertice: 6
+Vertice: 7
+Vertice: 9
+Vertice: 8
+Vertice: 5
+
+========== CAMINHO ENTRE 2 E 6 ==========
+
+	+ BFS:
+Vertice: 2
+Vertice: 3
+Vertice: 4
+Vertice: 5
+Vertice: 6
+
+	+ DFS:
+Vertice: 2
+Vertice: 6
+
+========== CAMINHO ENTRE 2 E 7 ==========
+
+	+ BFS:
+Vertice: 2
+Vertice: 3
+Vertice: 4
+Vertice: 5
+Vertice: 6
+Vertice: 7
+
+	+ DFS:
+Vertice: 2
+Vertice: 6
+Vertice: 7
+
+========== CAMINHO ENTRE 2 E 8 ==========
+
+	+ BFS:
+Vertice: 2
+Vertice: 3
+Vertice: 4
+Vertice: 5
+Vertice: 6
+Vertice: 7
+Vertice: 8
+
+	+ DFS:
+Vertice: 2
+Vertice: 6
+Vertice: 7
+Vertice: 9
+Vertice: 8
+
+========== CAMINHO ENTRE 2 E 9 ==========
+
+	+ BFS:
+Vertice: 2
+Vertice: 3
+Vertice: 4
+Vertice: 5
+Vertice: 6
+Vertice: 7
+Vertice: 8
+Vertice: 9
+
+	+ DFS:
+Vertice: 2
+Vertice: 6
+Vertice: 7
+Vertice: 9
+
+========== CAMINHO ENTRE 3 E 0 ==========
+
+	+ BFS:
+Vertice: 3
+Vertice: 2
+Vertice: 4
+Vertice: 5
+Vertice: 6
+Vertice: 7
+Vertice: 8
+Vertice: 9
+Não há caminho entre os vértices
+
+	+ DFS:
+Vertice: 3
+Vertice: 6
+Vertice: 7
+Vertice: 9
+Vertice: 8
+Vertice: 5
+Vertice: 4
+Vertice: 2
+Não há caminho entre os vértices
+
+========== CAMINHO ENTRE 3 E 1 ==========
+
+	+ BFS:
+Vertice: 3
+Vertice: 2
+Vertice: 4
+Vertice: 5
+Vertice: 6
+Vertice: 7
+Vertice: 8
+Vertice: 9
+Não há caminho entre os vértices
+
+	+ DFS:
+Vertice: 3
+Vertice: 6
+Vertice: 7
+Vertice: 9
+Vertice: 8
+Vertice: 5
+Vertice: 4
+Vertice: 2
+Não há caminho entre os vértices
+
+========== CAMINHO ENTRE 3 E 2 ==========
+
+	+ BFS:
+Vertice: 3
+Vertice: 2
+
+	+ DFS:
+Vertice: 3
+Vertice: 6
+Vertice: 7
+Vertice: 9
+Vertice: 8
+Vertice: 5
+Vertice: 4
+Vertice: 2
+
+========== CAMINHO ENTRE 3 E 4 ==========
+
+	+ BFS:
+Vertice: 3
+Vertice: 2
+Vertice: 4
+
+	+ DFS:
+Vertice: 3
+Vertice: 6
+Vertice: 7
+Vertice: 9
+Vertice: 8
+Vertice: 5
+Vertice: 4
+
+========== CAMINHO ENTRE 3 E 5 ==========
+
+	+ BFS:
+Vertice: 3
+Vertice: 2
+Vertice: 4
+Vertice: 5
+
+	+ DFS:
+Vertice: 3
+Vertice: 6
+Vertice: 7
+Vertice: 9
+Vertice: 8
+Vertice: 5
+
+========== CAMINHO ENTRE 3 E 6 ==========
+
+	+ BFS:
+Vertice: 3
+Vertice: 2
+Vertice: 4
+Vertice: 5
+Vertice: 6
+
+	+ DFS:
+Vertice: 3
+Vertice: 6
+
+========== CAMINHO ENTRE 3 E 7 ==========
+
+	+ BFS:
+Vertice: 3
+Vertice: 2
+Vertice: 4
+Vertice: 5
+Vertice: 6
+Vertice: 7
+
+	+ DFS:
+Vertice: 3
+Vertice: 6
+Vertice: 7
+
+========== CAMINHO ENTRE 3 E 8 ==========
+
+	+ BFS:
+Vertice: 3
+Vertice: 2
+Vertice: 4
+Vertice: 5
+Vertice: 6
+Vertice: 7
+Vertice: 8
+
+	+ DFS:
+Vertice: 3
+Vertice: 6
+Vertice: 7
+Vertice: 9
+Vertice: 8
+
+========== CAMINHO ENTRE 3 E 9 ==========
+
+	+ BFS:
+Vertice: 3
+Vertice: 2
+Vertice: 4
+Vertice: 5
+Vertice: 6
+Vertice: 7
+Vertice: 8
+Vertice: 9
+
+	+ DFS:
+Vertice: 3
+Vertice: 6
+Vertice: 7
+Vertice: 9
+
+========== CAMINHO ENTRE 4 E 0 ==========
+
+	+ BFS:
+Vertice: 4
+Vertice: 2
+Vertice: 3
+Vertice: 5
+Vertice: 6
+Vertice: 7
+Vertice: 8
+Vertice: 9
+Não há caminho entre os vértices
+
+	+ DFS:
+Vertice: 4
+Vertice: 7
+Vertice: 9
+Vertice: 8
+Vertice: 6
+Vertice: 5
+Vertice: 3
+Vertice: 2
+Não há caminho entre os vértices
+
+========== CAMINHO ENTRE 4 E 1 ==========
+
+	+ BFS:
+Vertice: 4
+Vertice: 2
+Vertice: 3
+Vertice: 5
+Vertice: 6
+Vertice: 7
+Vertice: 8
+Vertice: 9
+Não há caminho entre os vértices
+
+	+ DFS:
+Vertice: 4
+Vertice: 7
+Vertice: 9
+Vertice: 8
+Vertice: 6
+Vertice: 5
+Vertice: 3
+Vertice: 2
+Não há caminho entre os vértices
+
+========== CAMINHO ENTRE 4 E 2 ==========
+
+	+ BFS:
+Vertice: 4
+Vertice: 2
+
+	+ DFS:
+Vertice: 4
+Vertice: 7
+Vertice: 9
+Vertice: 8
+Vertice: 6
+Vertice: 5
+Vertice: 3
+Vertice: 2
+
+========== CAMINHO ENTRE 4 E 3 ==========
+
+	+ BFS:
+Vertice: 4
+Vertice: 2
+Vertice: 3
+
+	+ DFS:
+Vertice: 4
+Vertice: 7
+Vertice: 9
+Vertice: 8
+Vertice: 6
+Vertice: 5
+Vertice: 3
+
+========== CAMINHO ENTRE 4 E 5 ==========
+
+	+ BFS:
+Vertice: 4
+Vertice: 2
+Vertice: 3
+Vertice: 5
+
+	+ DFS:
+Vertice: 4
+Vertice: 7
+Vertice: 9
+Vertice: 8
+Vertice: 6
+Vertice: 5
+
+========== CAMINHO ENTRE 4 E 6 ==========
+
+	+ BFS:
+Vertice: 4
+Vertice: 2
+Vertice: 3
+Vertice: 5
+Vertice: 6
+
+	+ DFS:
+Vertice: 4
+Vertice: 7
+Vertice: 9
+Vertice: 8
+Vertice: 6
+
+========== CAMINHO ENTRE 4 E 7 ==========
+
+	+ BFS:
+Vertice: 4
+Vertice: 2
+Vertice: 3
+Vertice: 5
+Vertice: 6
+Vertice: 7
+
+	+ DFS:
+Vertice: 4
+Vertice: 7
+
+========== CAMINHO ENTRE 4 E 8 ==========
+
+	+ BFS:
+Vertice: 4
+Vertice: 2
+Vertice: 3
+Vertice: 5
+Vertice: 6
+Vertice: 7
+Vertice: 8
+
+	+ DFS:
+Vertice: 4
+Vertice: 7
+Vertice: 9
+Vertice: 8
+
+========== CAMINHO ENTRE 4 E 9 ==========
+
+	+ BFS:
+Vertice: 4
+Vertice: 2
+Vertice: 3
+Vertice: 5
+Vertice: 6
+Vertice: 7
+Vertice: 8
+Vertice: 9
+
+	+ DFS:
+Vertice: 4
+Vertice: 7
+Vertice: 9
+
+========== CAMINHO ENTRE 5 E 0 ==========
+
+	+ BFS:
+Vertice: 5
+Vertice: 2
+Vertice: 3
+Vertice: 4
+Vertice: 6
+Vertice: 7
+Vertice: 8
+Vertice: 9
+Não há caminho entre os vértices
+
+	+ DFS:
+Vertice: 5
+Vertice: 7
+Vertice: 9
+Vertice: 8
+Vertice: 6
+Vertice: 4
+Vertice: 3
+Vertice: 2
+Não há caminho entre os vértices
+
+========== CAMINHO ENTRE 5 E 1 ==========
+
+	+ BFS:
+Vertice: 5
+Vertice: 2
+Vertice: 3
+Vertice: 4
+Vertice: 6
+Vertice: 7
+Vertice: 8
+Vertice: 9
+Não há caminho entre os vértices
+
+	+ DFS:
+Vertice: 5
+Vertice: 7
+Vertice: 9
+Vertice: 8
+Vertice: 6
+Vertice: 4
+Vertice: 3
+Vertice: 2
+Não há caminho entre os vértices
+
+========== CAMINHO ENTRE 5 E 2 ==========
+
+	+ BFS:
+Vertice: 5
+Vertice: 2
+
+	+ DFS:
+Vertice: 5
+Vertice: 7
+Vertice: 9
+Vertice: 8
+Vertice: 6
+Vertice: 4
+Vertice: 3
+Vertice: 2
+
+========== CAMINHO ENTRE 5 E 3 ==========
+
+	+ BFS:
+Vertice: 5
+Vertice: 2
+Vertice: 3
+
+	+ DFS:
+Vertice: 5
+Vertice: 7
+Vertice: 9
+Vertice: 8
+Vertice: 6
+Vertice: 4
+Vertice: 3
+
+========== CAMINHO ENTRE 5 E 4 ==========
+
+	+ BFS:
+Vertice: 5
+Vertice: 2
+Vertice: 3
+Vertice: 4
+
+	+ DFS:
+Vertice: 5
+Vertice: 7
+Vertice: 9
+Vertice: 8
+Vertice: 6
+Vertice: 4
+
+========== CAMINHO ENTRE 5 E 6 ==========
+
+	+ BFS:
+Vertice: 5
+Vertice: 2
+Vertice: 3
+Vertice: 4
+Vertice: 6
+
+	+ DFS:
+Vertice: 5
+Vertice: 7
+Vertice: 9
+Vertice: 8
+Vertice: 6
+
+========== CAMINHO ENTRE 5 E 7 ==========
+
+	+ BFS:
+Vertice: 5
+Vertice: 2
+Vertice: 3
+Vertice: 4
+Vertice: 6
+Vertice: 7
+
+	+ DFS:
+Vertice: 5
+Vertice: 7
+
+========== CAMINHO ENTRE 5 E 8 ==========
+
+	+ BFS:
+Vertice: 5
+Vertice: 2
+Vertice: 3
+Vertice: 4
+Vertice: 6
+Vertice: 7
+Vertice: 8
+
+	+ DFS:
+Vertice: 5
+Vertice: 7
+Vertice: 9
+Vertice: 8
+
+========== CAMINHO ENTRE 5 E 9 ==========
+
+	+ BFS:
+Vertice: 5
+Vertice: 2
+Vertice: 3
+Vertice: 4
+Vertice: 6
+Vertice: 7
+Vertice: 8
+Vertice: 9
+
+	+ DFS:
+Vertice: 5
+Vertice: 7
+Vertice: 9
+
+========== CAMINHO ENTRE 6 E 0 ==========
+
+	+ BFS:
+Vertice: 6
+Vertice: 2
+Vertice: 3
+Vertice: 4
+Vertice: 5
+Vertice: 7
+Vertice: 8
+Vertice: 9
+Não há caminho entre os vértices
+
+	+ DFS:
+Vertice: 6
+Vertice: 7
+Vertice: 9
+Vertice: 8
+Vertice: 5
+Vertice: 4
+Vertice: 3
+Vertice: 2
+Não há caminho entre os vértices
+
+========== CAMINHO ENTRE 6 E 1 ==========
+
+	+ BFS:
+Vertice: 6
+Vertice: 2
+Vertice: 3
+Vertice: 4
+Vertice: 5
+Vertice: 7
+Vertice: 8
+Vertice: 9
+Não há caminho entre os vértices
+
+	+ DFS:
+Vertice: 6
+Vertice: 7
+Vertice: 9
+Vertice: 8
+Vertice: 5
+Vertice: 4
+Vertice: 3
+Vertice: 2
+Não há caminho entre os vértices
+
+========== CAMINHO ENTRE 6 E 2 ==========
+
+	+ BFS:
+Vertice: 6
+Vertice: 2
+
+	+ DFS:
+Vertice: 6
+Vertice: 7
+Vertice: 9
+Vertice: 8
+Vertice: 5
+Vertice: 4
+Vertice: 3
+Vertice: 2
+
+========== CAMINHO ENTRE 6 E 3 ==========
+
+	+ BFS:
+Vertice: 6
+Vertice: 2
+Vertice: 3
+
+	+ DFS:
+Vertice: 6
+Vertice: 7
+Vertice: 9
+Vertice: 8
+Vertice: 5
+Vertice: 4
+Vertice: 3
+
+========== CAMINHO ENTRE 6 E 4 ==========
+
+	+ BFS:
+Vertice: 6
+Vertice: 2
+Vertice: 3
+Vertice: 4
+
+	+ DFS:
+Vertice: 6
+Vertice: 7
+Vertice: 9
+Vertice: 8
+Vertice: 5
+Vertice: 4
+
+========== CAMINHO ENTRE 6 E 5 ==========
+
+	+ BFS:
+Vertice: 6
+Vertice: 2
+Vertice: 3
+Vertice: 4
+Vertice: 5
+
+	+ DFS:
+Vertice: 6
+Vertice: 7
+Vertice: 9
+Vertice: 8
+Vertice: 5
+
+========== CAMINHO ENTRE 6 E 7 ==========
+
+	+ BFS:
+Vertice: 6
+Vertice: 2
+Vertice: 3
+Vertice: 4
+Vertice: 5
+Vertice: 7
+
+	+ DFS:
+Vertice: 6
+Vertice: 7
+
+========== CAMINHO ENTRE 6 E 8 ==========
+
+	+ BFS:
+Vertice: 6
+Vertice: 2
+Vertice: 3
+Vertice: 4
+Vertice: 5
+Vertice: 7
+Vertice: 8
+
+	+ DFS:
+Vertice: 6
+Vertice: 7
+Vertice: 9
+Vertice: 8
+
+========== CAMINHO ENTRE 6 E 9 ==========
+
+	+ BFS:
+Vertice: 6
+Vertice: 2
+Vertice: 3
+Vertice: 4
+Vertice: 5
+Vertice: 7
+Vertice: 8
+Vertice: 9
+
+	+ DFS:
+Vertice: 6
+Vertice: 7
+Vertice: 9
+
+========== CAMINHO ENTRE 7 E 0 ==========
+
+	+ BFS:
+Vertice: 7
+Vertice: 4
+Vertice: 5
+Vertice: 8
+Vertice: 9
+Vertice: 2
+Vertice: 3
+Vertice: 6
+Não há caminho entre os vértices
+
+	+ DFS:
+Vertice: 7
+Vertice: 9
+Vertice: 8
+Vertice: 5
+Vertice: 6
+Vertice: 3
+Vertice: 2
+Vertice: 4
+Não há caminho entre os vértices
+
+========== CAMINHO ENTRE 7 E 1 ==========
+
+	+ BFS:
+Vertice: 7
+Vertice: 4
+Vertice: 5
+Vertice: 8
+Vertice: 9
+Vertice: 2
+Vertice: 3
+Vertice: 6
+Não há caminho entre os vértices
+
+	+ DFS:
+Vertice: 7
+Vertice: 9
+Vertice: 8
+Vertice: 5
+Vertice: 6
+Vertice: 3
+Vertice: 2
+Vertice: 4
+Não há caminho entre os vértices
+
+========== CAMINHO ENTRE 7 E 2 ==========
+
+	+ BFS:
+Vertice: 7
+Vertice: 4
+Vertice: 5
+Vertice: 8
+Vertice: 9
+Vertice: 2
+
+	+ DFS:
+Vertice: 7
+Vertice: 9
+Vertice: 8
+Vertice: 5
+Vertice: 6
+Vertice: 3
+Vertice: 2
+
+========== CAMINHO ENTRE 7 E 3 ==========
+
+	+ BFS:
+Vertice: 7
+Vertice: 4
+Vertice: 5
+Vertice: 8
+Vertice: 9
+Vertice: 2
+Vertice: 3
+
+	+ DFS:
+Vertice: 7
+Vertice: 9
+Vertice: 8
+Vertice: 5
+Vertice: 6
+Vertice: 3
+
+========== CAMINHO ENTRE 7 E 4 ==========
+
+	+ BFS:
+Vertice: 7
+Vertice: 4
+
+	+ DFS:
+Vertice: 7
+Vertice: 9
+Vertice: 8
+Vertice: 5
+Vertice: 6
+Vertice: 3
+Vertice: 2
+Vertice: 4
+
+========== CAMINHO ENTRE 7 E 5 ==========
+
+	+ BFS:
+Vertice: 7
+Vertice: 4
+Vertice: 5
+
+	+ DFS:
+Vertice: 7
+Vertice: 9
+Vertice: 8
+Vertice: 5
+
+========== CAMINHO ENTRE 7 E 6 ==========
+
+	+ BFS:
+Vertice: 7
+Vertice: 4
+Vertice: 5
+Vertice: 8
+Vertice: 9
+Vertice: 2
+Vertice: 3
+Vertice: 6
+
+	+ DFS:
+Vertice: 7
+Vertice: 9
+Vertice: 8
+Vertice: 5
+Vertice: 6
+
+========== CAMINHO ENTRE 7 E 8 ==========
+
+	+ BFS:
+Vertice: 7
+Vertice: 4
+Vertice: 5
+Vertice: 8
+
+	+ DFS:
+Vertice: 7
+Vertice: 9
+Vertice: 8
+
+========== CAMINHO ENTRE 7 E 9 ==========
+
+	+ BFS:
+Vertice: 7
+Vertice: 4
+Vertice: 5
+Vertice: 8
+Vertice: 9
+
+	+ DFS:
+Vertice: 7
+Vertice: 9
+
+========== CAMINHO ENTRE 8 E 0 ==========
+
+	+ BFS:
+Vertice: 8
+Vertice: 7
+Vertice: 9
+Vertice: 4
+Vertice: 5
+Vertice: 2
+Vertice: 3
+Vertice: 6
+Não há caminho entre os vértices
+
+	+ DFS:
+Vertice: 8
+Vertice: 9
+Vertice: 7
+Vertice: 5
+Vertice: 6
+Vertice: 3
+Vertice: 2
+Vertice: 4
+Não há caminho entre os vértices
+
+========== CAMINHO ENTRE 8 E 1 ==========
+
+	+ BFS:
+Vertice: 8
+Vertice: 7
+Vertice: 9
+Vertice: 4
+Vertice: 5
+Vertice: 2
+Vertice: 3
+Vertice: 6
+Não há caminho entre os vértices
+
+	+ DFS:
+Vertice: 8
+Vertice: 9
+Vertice: 7
+Vertice: 5
+Vertice: 6
+Vertice: 3
+Vertice: 2
+Vertice: 4
+Não há caminho entre os vértices
+
+========== CAMINHO ENTRE 8 E 2 ==========
+
+	+ BFS:
+Vertice: 8
+Vertice: 7
+Vertice: 9
+Vertice: 4
+Vertice: 5
+Vertice: 2
+
+	+ DFS:
+Vertice: 8
+Vertice: 9
+Vertice: 7
+Vertice: 5
+Vertice: 6
+Vertice: 3
+Vertice: 2
+
+========== CAMINHO ENTRE 8 E 3 ==========
+
+	+ BFS:
+Vertice: 8
+Vertice: 7
+Vertice: 9
+Vertice: 4
+Vertice: 5
+Vertice: 2
+Vertice: 3
+
+	+ DFS:
+Vertice: 8
+Vertice: 9
+Vertice: 7
+Vertice: 5
+Vertice: 6
+Vertice: 3
+
+========== CAMINHO ENTRE 8 E 4 ==========
+
+	+ BFS:
+Vertice: 8
+Vertice: 7
+Vertice: 9
+Vertice: 4
+
+	+ DFS:
+Vertice: 8
+Vertice: 9
+Vertice: 7
+Vertice: 5
+Vertice: 6
+Vertice: 3
+Vertice: 2
+Vertice: 4
+
+========== CAMINHO ENTRE 8 E 5 ==========
+
+	+ BFS:
+Vertice: 8
+Vertice: 7
+Vertice: 9
+Vertice: 4
+Vertice: 5
+
+	+ DFS:
+Vertice: 8
+Vertice: 9
+Vertice: 7
+Vertice: 5
+
+========== CAMINHO ENTRE 8 E 6 ==========
+
+	+ BFS:
+Vertice: 8
+Vertice: 7
+Vertice: 9
+Vertice: 4
+Vertice: 5
+Vertice: 2
+Vertice: 3
+Vertice: 6
+
+	+ DFS:
+Vertice: 8
+Vertice: 9
+Vertice: 7
+Vertice: 5
+Vertice: 6
+
+========== CAMINHO ENTRE 8 E 7 ==========
+
+	+ BFS:
+Vertice: 8
+Vertice: 7
+
+	+ DFS:
+Vertice: 8
+Vertice: 9
+Vertice: 7
+
+========== CAMINHO ENTRE 8 E 9 ==========
+
+	+ BFS:
+Vertice: 8
+Vertice: 7
+Vertice: 9
+
+	+ DFS:
+Vertice: 8
+Vertice: 9
+
+========== CAMINHO ENTRE 9 E 0 ==========
+
+	+ BFS:
+Vertice: 9
+Vertice: 7
+Vertice: 8
+Vertice: 4
+Vertice: 5
+Vertice: 2
+Vertice: 3
+Vertice: 6
+Não há caminho entre os vértices
+
+	+ DFS:
+Vertice: 9
+Vertice: 8
+Vertice: 7
+Vertice: 5
+Vertice: 6
+Vertice: 3
+Vertice: 2
+Vertice: 4
+Não há caminho entre os vértices
+
+========== CAMINHO ENTRE 9 E 1 ==========
+
+	+ BFS:
+Vertice: 9
+Vertice: 7
+Vertice: 8
+Vertice: 4
+Vertice: 5
+Vertice: 2
+Vertice: 3
+Vertice: 6
+Não há caminho entre os vértices
+
+	+ DFS:
+Vertice: 9
+Vertice: 8
+Vertice: 7
+Vertice: 5
+Vertice: 6
+Vertice: 3
+Vertice: 2
+Vertice: 4
+Não há caminho entre os vértices
+
+========== CAMINHO ENTRE 9 E 2 ==========
+
+	+ BFS:
+Vertice: 9
+Vertice: 7
+Vertice: 8
+Vertice: 4
+Vertice: 5
+Vertice: 2
+
+	+ DFS:
+Vertice: 9
+Vertice: 8
+Vertice: 7
+Vertice: 5
+Vertice: 6
+Vertice: 3
+Vertice: 2
+
+========== CAMINHO ENTRE 9 E 3 ==========
+
+	+ BFS:
+Vertice: 9
+Vertice: 7
+Vertice: 8
+Vertice: 4
+Vertice: 5
+Vertice: 2
+Vertice: 3
+
+	+ DFS:
+Vertice: 9
+Vertice: 8
+Vertice: 7
+Vertice: 5
+Vertice: 6
+Vertice: 3
+
+========== CAMINHO ENTRE 9 E 4 ==========
+
+	+ BFS:
+Vertice: 9
+Vertice: 7
+Vertice: 8
+Vertice: 4
+
+	+ DFS:
+Vertice: 9
+Vertice: 8
+Vertice: 7
+Vertice: 5
+Vertice: 6
+Vertice: 3
+Vertice: 2
+Vertice: 4
+
+========== CAMINHO ENTRE 9 E 5 ==========
+
+	+ BFS:
+Vertice: 9
+Vertice: 7
+Vertice: 8
+Vertice: 4
+Vertice: 5
+
+	+ DFS:
+Vertice: 9
+Vertice: 8
+Vertice: 7
+Vertice: 5
+
+========== CAMINHO ENTRE 9 E 6 ==========
+
+	+ BFS:
+Vertice: 9
+Vertice: 7
+Vertice: 8
+Vertice: 4
+Vertice: 5
+Vertice: 2
+Vertice: 3
+Vertice: 6
+
+	+ DFS:
+Vertice: 9
+Vertice: 8
+Vertice: 7
+Vertice: 5
+Vertice: 6
+
+========== CAMINHO ENTRE 9 E 7 ==========
+
+	+ BFS:
+Vertice: 9
+Vertice: 7
+
+	+ DFS:
+Vertice: 9
+Vertice: 8
+Vertice: 7
+
+========== CAMINHO ENTRE 9 E 8 ==========
+
+	+ BFS:
+Vertice: 9
+Vertice: 7
+Vertice: 8
+
+	+ DFS:
+Vertice: 9
+Vertice: 8
+

@@ -1,0 +1,157 @@
+Número de Vértices: 4
+Matriz de adjacência:
+0 - 3 - 4 - 0
+3 - 0 - 5 - 7
+4 - 5 - 0 - 0
+0 - 7 - 0 - 0
+
+Lista de Adjacência:
+1 - 2
+0 - 2 - 3
+0 - 1
+1
+
+========== CAMINHO ENTRE 0 E 1 ==========
+
+	+ BFS:
+Vertice: 0
+Vertice: 1
+
+	+ DFS:
+Vertice: 0
+Vertice: 2
+Vertice: 1
+
+========== CAMINHO ENTRE 0 E 2 ==========
+
+	+ BFS:
+Vertice: 0
+Vertice: 1
+Vertice: 2
+
+	+ DFS:
+Vertice: 0
+Vertice: 2
+
+========== CAMINHO ENTRE 0 E 3 ==========
+
+	+ BFS:
+Vertice: 0
+Vertice: 1
+Vertice: 2
+Vertice: 3
+
+	+ DFS:
+Vertice: 0
+Vertice: 2
+Vertice: 1
+Vertice: 3
+
+========== CAMINHO ENTRE 1 E 0 ==========
+
+	+ BFS:
+Vertice: 1
+Vertice: 0
+
+	+ DFS:
+Vertice: 1
+Vertice: 3
+Vertice: 2
+Vertice: 0
+
+========== CAMINHO ENTRE 1 E 2 ==========
+
+	+ BFS:
+Vertice: 1
+Vertice: 0
+Vertice: 2
+
+	+ DFS:
+Vertice: 1
+Vertice: 3
+Vertice: 2
+
+========== CAMINHO ENTRE 1 E 3 ==========
+
+	+ BFS:
+Vertice: 1
+Vertice: 0
+Vertice: 2
+Vertice: 3
+
+	+ DFS:
+Vertice: 1
+Vertice: 3
+
+========== CAMINHO ENTRE 2 E 0 ==========
+
+	+ BFS:
+Vertice: 2
+Vertice: 0
+
+	+ DFS:
+Vertice: 2
+Vertice: 1
+Vertice: 3
+Vertice: 0
+
+========== CAMINHO ENTRE 2 E 1 ==========
+
+	+ BFS:
+Vertice: 2
+Vertice: 0
+Vertice: 1
+
+	+ DFS:
+Vertice: 2
+Vertice: 1
+
+========== CAMINHO ENTRE 2 E 3 ==========
+
+	+ BFS:
+Vertice: 2
+Vertice: 0
+Vertice: 1
+Vertice: 3
+
+	+ DFS:
+Vertice: 2
+Vertice: 1
+Vertice: 3
+
+========== CAMINHO ENTRE 3 E 0 ==========
+
+	+ BFS:
+Vertice: 3
+Vertice: 1
+Vertice: 0
+
+	+ DFS:
+Vertice: 3
+Vertice: 1
+Vertice: 2
+Vertice: 0
+
+========== CAMINHO ENTRE 3 E 1 ==========
+
+	+ BFS:
+Vertice: 3
+Vertice: 1
+
+	+ DFS:
+Vertice: 3
+Vertice: 1
+
+========== CAMINHO ENTRE 3 E 2 ==========
+
+	+ BFS:
+Vertice: 3
+Vertice: 1
+Vertice: 0
+Vertice: 2
+
+	+ DFS:
+Vertice: 3
+Vertice: 1
+Vertice: 2
+
